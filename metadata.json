@@ -1,0 +1,8 @@
+{
+  "name": "Framecraft Studio",
+  "description": "AI Graphic Design & Short Video Reel Studio for creating templates, layered graphics, and 9:16 vertical videos with global AI voices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
